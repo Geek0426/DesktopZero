@@ -1,6 +1,12 @@
 # デスクトップ0主義 1.0.0
 
-デスクトップを空っぽにしたい人のための、画面端の引き出しです。好きなフォルダを登録すると、画面端のタブからすぐ開けます。元のファイルは移動しません。
+デスクトップ、散らかってない？
+
+**デスクトップ0主義**は、好きなフォルダを画面端の「引き出し」に登録して、ファイルやショートカットをすぐ呼び出せるWindows用アプリです。元のファイルは移動しません。
+
+> **「デスクトップ？ ああ、俺は何も置かない主義。」**
+
+**片付いているのではない。隠しているだけです。**
 
 ## ダウンロード
 
@@ -15,7 +21,9 @@ Windows 64ビット用です。初回起動後に設定画面でフォルダを�
 
 # Desktop Zero 1.0.0
 
-Keep your desktop clear and your folders within reach. Add a folder, then open it from a tab at the edge of your screen. Your files stay where they are.
+Is your desktop a mess? **Desktop Zero** lets you browse folders from tabs at the edge of your screen. Your files stay where they are.
+
+**It's not organized. It's just hidden.**
 
 ## Download
 
