@@ -25,8 +25,13 @@
 
 でも、0なら問題ない。
 
-![引き出しを開いたところ](screenshots/drawer.png)
-![設定画面](screenshots/settings.png)
+### 実際の画面 / Screenshots
+
+| 引き出しを開いた状態 / Drawer open | タブだけの状態 / Tabs only |
+| :---: | :---: |
+| <img src="screenshots/desktop-open.png" alt="引き出しを開いたデスクトップ" width="350"> | <img src="screenshots/desktop-tabs.png" alt="画面右端に並ぶタブ" width="240"> |
+
+![設定画面 / Settings](screenshots/settings.png)
 
 ### できること
 
