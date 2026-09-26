@@ -1,10 +1,29 @@
 # デスクトップ0主義 / Desktop Zero
 
-## 置きたくない。でも、すぐ開きたい。
+## デスクトップ、散らかってない？
 
-デスクトップにファイルやショートカットを置かず、必要なフォルダにはすぐ手を伸ばしたい。そんな人のための、Windows 用の小さな引き出しです。
+「あのファイル、どこだっけ？」
 
-好きなフォルダを登録すると、画面の左右にタブが現れます。タブを押せばフォルダの中身が開き、もう一度押せば閉じます。フォルダやファイルの実体は、元の場所に置いたままです。
+「フォルダ増えすぎて、もう何が何だかわからない」
+
+「この画像だけは絶対に表へ出しておきたくない」
+
+そんなあなたに朗報です。
+
+**デスクトップ0主義**は、好きなフォルダを画面端の「引き出し」に登録して、
+ファイルやショートカットをすぐ呼び出せるWindows用デスクトップ整理アプリです。
+
+必要なときだけ引き出して、使い終わったらしまう。
+
+デスクトップはすっきり。見た目はスマート。
+
+これで今日から、シゴデキ大人のデスクトップを演出できます。
+
+> **「デスクトップ？ ああ、俺は何も置かない主義。」**
+
+**片付いているのではない。隠しているだけです。**
+
+でも、0なら問題ない。
 
 ![引き出しを開いたところ](screenshots/drawer.png)
 ![設定画面](screenshots/settings.png)
@@ -58,9 +77,31 @@
 
 ## Desktop Zero
 
-**A clear desktop. Your folders still within reach.**
+### Is your desktop a mess?
 
-Desktop Zero is a small drawer app for Windows. Add a folder and a tab appears on the left or right edge of your screen. Click the tab to browse the folder, then click it again to close it. The actual files stay in their original location.
+"Where the hell did I put that file?"
+
+"Why do I have this many folders?"
+
+"And maybe this particular image really shouldn't be sitting out in the open."
+
+Good news.
+
+**Desktop Zero** is a small Windows app that lets you browse your folders, files, and shortcuts from drawers tucked along the edge of your screen.
+
+Pull them out when you need them.
+
+Put them away when you're done.
+
+Clean desktop. Smart appearance.
+
+Now you, too, can enjoy the sophisticated desktop of someone who definitely has their life together.
+
+> **"My desktop? Oh, I don't keep anything on it. It's a principle."**
+
+**It's not organized. It's just hidden.**
+
+But if the desktop says zero, who's counting?
 
 ### Features
 
